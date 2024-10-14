@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Georama", sans-serif;
+}
+
+input {
+    border: 1px solid;
+    background: #FFF;
+    width: 575px;
+    height: 50px;
+    margin-top: 140px;
+    margin-left: 240px;
+    border-radius: 20px; 
+}
+
+input::-webkit-input-placeholder{
+    text-align: center;
+    font-size: 17px;
+
+}
+
+.icone {
+    margin-top: -37.93px;
+    margin-left: 249px;
+    cursor: pointer;
+}
+
+.microfone {
+    margin-top: -34.93px;
+    margin-left: 769px;
+    cursor: pointer;
+}
+
+h1 {
+    width: 580px;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 130%;
+    font-style: normal;
+    margin-left: 240px;
+    padding: 4px;
+    margin-top: 40px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 130%;
+    width: 584px;
+    margin-left: 240px;
+    color: #00000099;
+    margin-top: 15px;
+}
+
+.preta {
+    width: 375px;
+    height: 810px;
+    display: block;
+    margin-left: 76%;
+    margin-top: -572px;
+    cursor: pointer;
+}
+
+.branca {
+    width: 375px;
+    height: 812px;
+    display: block;
+    margin-left: 50%;
+    margin-top: -809px;
+    cursor: pointer;
+}
+
+
+
+
